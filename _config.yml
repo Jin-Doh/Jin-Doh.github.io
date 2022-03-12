@@ -25,10 +25,10 @@ url: https://jin-doh.github.io/
 #baseurl: "/end2end"
 baseurl: ""
 
-#google_analytics: UA-52446115-1
-#repo: http://github.com/nandomoreirame/end2end
-#disqus_shortname: "nandothemes"
-#disqus_site_shortname: "nandothemes"
+google_analytics: UA-52446115-1
+repo: http://github.com/nandomoreirame/end2end
+disqus_shortname: "nandothemes"
+disqus_site_shortname: "nandothemes"
 
 # Author settings
 author:
