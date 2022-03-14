@@ -7,11 +7,11 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: Jin-Doh_Log
+title: Jin-Doh&nbsp;&nbsp;Log
 # Description of the Site
 description: Junior PM & Developer, Jin-Doh!
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: /assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: 개발, Development, 우분투, WSL2, VSCODE, vscode, 윈도우
 # URL for the Image of custom Favicon
@@ -31,12 +31,12 @@ github_username:  Jin-Doh
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+# disqus-shortname: thedevslot
 
 # Name of the Author
 author-name: Jin-Doh
 # URL for the Image of the Author
-author-image: /assets/images/AR(Head).svg
+author-image: /assets/images/AR(Head).png
 # 60 Words About the Author
 author-about: Junior PM & Developer, Jin-Doh!
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)

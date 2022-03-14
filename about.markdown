@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: About | Jin-Doh
 permalink: /about/
 ---
+<!-- <h3 style="font-family: GmarketSansBold;">Jin-Doh</h3> -->
+<p style="font-size: 1.1rem;"><i>"누구보다 게으르게 살기 위해 성실히 사는 중"</i></p><br>
+<span>
+    - 중국언어문화, 글로벌인문경영 전공<br>
+    - Junior PM & Developer
+</span><br><br>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<a href="https://Jin-Doh.github.io/#about" style="color: #363636;">**Move to Contact**</a> |&nbsp;
+<a href="https://Jin-Doh.github.io/project" style="color: #363636">**Move to Projects**</a>
