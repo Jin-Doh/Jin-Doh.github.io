@@ -3,7 +3,7 @@ layout: page
 title: About | Jin-Doh
 permalink: /about/
 ---
-<!-- <h3 style="font-family: GmarketSansBold;">Jin-Doh</h3> -->
+![zepetoImg](/assets/images/Profiles/zepetoCoffee.svg){: width="240" height="240"}
 <p style="font-size: 1.1rem;"><i>"누구보다 게으르게 살기 위해 성실히 사는 중"</i></p><br>
 <span>
     - 중국언어문화, 글로벌인문경영 전공<br>
